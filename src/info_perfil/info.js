@@ -1,8 +1,10 @@
+import './info.css';
 
-const Info = () =>{
+const Info = (props) =>{
     return(
         <div>
-            <h1>info</h1>
+            <img src={props.perfil.pfp} alt="pfp"></img>
+            {props.perfil.usuario}
         </div>
     )
 }

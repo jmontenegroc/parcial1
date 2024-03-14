@@ -1,11 +1,11 @@
 import Feed from '../feed/feed';
 import Info from '../info_perfil/info';
 
-const Perfil = () => {
+const Perfil = (props) => {
     return (
         <div>
-            <Info />
-            <Feed />
+            <Info perfil={props.perfil}/>
+            <Feed perfil={props.perfil}/>
         </div>
     )
 }
