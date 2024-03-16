@@ -1,17 +1,19 @@
 {
-    "usuario":"username",
-    "pfp":"https://fastly.picsum.photos/id/606/350/350.jpg?hmac=1UUZssA49TZ-f7NdbNT9TyOfYmZ5KYyGR_MKwrJnpbg",
-    "followers":123,
-    "following":456,
-    "posts":678,
-    "description":"dknaodsncoac weinowijedowjieodjwoeid iewoijedowie",
-    "foto1":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto2":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto3":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto4":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto5":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto6":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto7":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto8":"https://fastly.picsum.photos/id/606/350/350.jpg",
-    "foto9":"https://fastly.picsum.photos/id/606/350/350.jpg"
+  "usuario": "username",
+  "pfp": "https://fastly.picsum.photos/id/606/350/350.jpg?hmac=1UUZssA49TZ-f7NdbNT9TyOfYmZ5KYyGR_MKwrJnpbg",
+  "followers": 123,
+  "following": 456,
+  "posts": 678,
+  "description": "dknaodsncoac weinowijedowjieodjwoeid iewoijedowie",
+  "fotos": {
+    "1": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "2": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "3": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "4": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "5": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "6": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "7": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "8": "https://fastly.picsum.photos/id/606/350/350.jpg",
+    "9": "https://fastly.picsum.photos/id/606/350/350.jpg"
+  }
 }
